@@ -6,7 +6,7 @@ You need to have installed
 - Python
 - MongoDB
 
-[Click here](https://www.mongodb.com/try/download/community) to install MongoDB locally if you intend to use it as part of your development environment, or [click here](https://www.mongodb.com/) to setup a cloud database. Setting up the database won't be a problem if you already know what you are doing. Clone this repo onto your machine using
+[Click here](https://www.mongodb.com/try/download/community) to download and install MongoDB locally if you intend to use it as part of your development environment, or [click here](https://www.mongodb.com/) to setup a cloud database. Setting up the database won't be a problem if you already know what you are doing. Clone this repo onto your machine using
 ```
 git clone https://github.com/fanifrancs/fantastic-waddle.git
 ```
